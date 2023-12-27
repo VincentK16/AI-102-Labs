@@ -1,1 +1,1 @@
-# AI-102-Labs
+# AI-102 Labs Instructions
