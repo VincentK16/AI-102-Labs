@@ -1,11 +1,29 @@
-# AI-102 Labs Instructions
+# AI-102 Labs 
 
+## English Instructions
 1. [Azure AI Services modules](https://github.com/MicrosoftLearning/mslearn-ai-services)
 2. [Azure AI Vision modules](https://github.com/MicrosoftLearning/mslearn-ai-vision)
 3. [Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language)
 4. [Azure AI Document Intelligence modules](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence)
 5. [Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining)
 6. [Azure OpenAI modules](https://github.com/MicrosoftLearning/mslearn-openai)
+
+## Korean Instructions
+1. [Azure AI Services modules](https://github.com/MicrosoftLearning/mslearn-ai-services.ko-kr)
+2. [Azure AI Vision modules](https://github.com/MicrosoftLearning/mslearn-ai-vision.ko-kr)
+3. [Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language.ko-kr)
+4. [Azure AI Document Intelligence modules](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence.ko-kr)
+5. [Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining.ko-kr)
+6. [Azure OpenAI modules](https://github.com/MicrosoftLearning/mslearn-openai.ko-kr)
+
+## Japanese Instructions
+1. [Azure AI Services modules](https://github.com/MicrosoftLearning/mslearn-ai-services.ja-jp)
+2. [Azure AI Vision modules](https://github.com/MicrosoftLearning/mslearn-ai-vision.ja-jp)
+3. [Azure AI Language modules](https://github.com/MicrosoftLearning/mslearn-ai-language.ja-jp)
+4. [Azure AI Document Intelligence modules](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence.ja-jp)
+5. [Azure AI Knowledge Mining modules](https://github.com/MicrosoftLearning/mslearn-knowledge-mining.ja-jp)
+6. [Azure OpenAI modules](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp)
+
 
 You could download and execute the Powershell script (ai102labs.ps1) to download all the 6 repos directly with one command:
 <br>
