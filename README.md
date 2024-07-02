@@ -25,12 +25,12 @@
 6. [Azure OpenAI modules](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp)
 
 
-You could download and execute the Powershell script (ai102labs.ps1) to download all the 6 repos directly with one command:
+You could download and execute the Powershell script (ai102labs.ps1 or ai102labs-kr.ps1 or ai102labs-kr.ps1) to download all the 6 repos directly with one command:
 <br>
 <img width="450" alt="image" src="https://github.com/VincentK16/AI-102-Labs/assets/3338753/6e8df5fe-7c5d-4a59-b57b-8a58fcdfa637">
 
 
-_Last updated 3rd Jan 2024_
+_Last updated 2nd July 2024_
 
 <img width="150" alt="image" src="https://github.com/VincentK16/trending-learning-resources/assets/3338753/278b9df5-8e3f-4fd6-82d8-3e6761979a83">
 
